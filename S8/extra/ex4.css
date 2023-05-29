@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: lightgray;
+  }
+
+.container{
+    margin: 20px;
+    width: 950;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container__div {
+    margin: 5px;
+    height: 350px;
+    width: 500px;
+    padding: 15px;
+}
+
+.imgcontainer {
+    margin: 5px;
+    width: 950;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.imagenes {
+    margin: 5px;
+    width: 140px;
+    padding: 5px;
+}
+
+.fondoimagen {
+    background-color: grey;
+}
